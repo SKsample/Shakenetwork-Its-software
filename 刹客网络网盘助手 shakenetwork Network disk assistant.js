@@ -5,7 +5,7 @@
 // @version      0.1.1 20200813
 // @description  自动识别并标记百度云、蓝奏云、腾讯微云和天翼云盘的链接状态，网盘密码自动输入万能钥匙,百度网盘生成并展示下载链接，百度网盘分享时自定义提取码
 // @author       由刹客网络科技提供
-// @match        *://**/*
+// @match        *://**/**
 // @connect      www.lanzous.com
 // @connect      pan.baidu.com
 // @connect      share.weiyun.com
