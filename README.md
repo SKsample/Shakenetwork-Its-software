@@ -2,7 +2,9 @@
 刹客网络旗下软件
 
 旗下软件暂无官网渠道，除了这本文章提供以外，其他地方下载出现问题均不负该责任，其他渠道会对程序反编译插入各种东西，这个是没办法处理，暂时由本文章内容作为唯一渠道点。
+
 GitHub：https://github.com/shakenetwork/Shakenetwork-Its-software
+
 GitHub：https://github.com/SKsample/Shakenetwork-Its-software
 
 
@@ -58,6 +60,37 @@ https://pan.baidu.com/s/1Y8YPzErKEK_RcQh343z1QQ  提取码: j3e5
 ![image](https://user-images.githubusercontent.com/28796269/166919210-973f50f7-2475-4a98-a559-7fea08af9c35.png)
 ![image](https://user-images.githubusercontent.com/28796269/166919227-73be8d06-4261-40f9-8d47-384f6eb56091.png)
 ![image](https://user-images.githubusercontent.com/28796269/166919241-5efc2b38-8d36-4a65-ad9e-a33f6e03b83a.png)
+
+
+
+
+
+
+刹客网络231she加102skn易语言皮肤模块
+
+描述：
+
+该模块是一个各类皮肤加载，多达200个以上，已经把重复的皮肤去除了，是当时内置皮肤模块里面最全，也把一些小问题也给解决了，同时该皮肤模块采取两种方案加载，可以同时调用不会冲突，比较适合做更换皮肤设置选项。
+
+历史：
+
+2015年9月发布其第一款皮肤模块，到目前为止暂时还在更新，其更新可能会出的比较晚，因为需要收集和使用大量皮肤测试，最后才更新进去，所以该模块更新周期会比较长。
+
+版本：
+
+以下是历代版本地址：
+V1.0 https://pan.baidu.com/s/1eQxxT4Y
+
+V1.2
+链接: https://pan.baidu.com/s/13qWzPGUV9pdiBMZNsDDpTg 提取码: cqud 
+
+
+软件如图：
+
+![image](https://user-images.githubusercontent.com/28796269/166918602-32fa96d5-69b6-4fcc-9176-0b891266307f.png)
+
+
+
 
 
 
@@ -323,25 +356,6 @@ v1.0 https://pan.baidu.com/s/1eQjk7mE
 
 
 
-刹客网络142she加102skn易语言皮肤模块
-
-描述：
-
-该模块是一个各类皮肤加载，多达200个以上，已经把重复的皮肤去除了，是当时内置皮肤模块里面最全，也把一些小问题也给解决了，同时该皮肤模块采取两种方案加载，可以同时调用不会冲突，比较适合做更换皮肤设置选项。
-
-历史：
-
-2015年9月发布其第一款皮肤模块，到目前为止暂时还在更新，其更新可能会出的比较晚，因为需要收集和使用大量皮肤测试，最后才更新进去，所以该模块更新周期会比较长。
-
-版本：
-
-以下是历代版本地址：
-V1.0 https://pan.baidu.com/s/1eQxxT4Y
-
-
-软件如图：
-
-![image](https://user-images.githubusercontent.com/28796269/166918602-32fa96d5-69b6-4fcc-9176-0b891266307f.png)
 
 
 
