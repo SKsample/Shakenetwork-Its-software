@@ -18,14 +18,15 @@ GitHub：https://github.com/SKsample/Shakenetwork-Its-software
 
 历史：
 
-2019年11月发布第一款版本，刚开始还没制定好软件UI界面，经过几个月选款制作出全新UI界面出来，目前现在的版本由于UI问题无法兼容到旧版本PE微型系统，这个原因具体问题还在处理，从XP到win10测试均无问题，winXP/8/10PE微型系统下使用也是正常，这个问题已经正在处理，在日后版本更新会处理好。
+2019年11月发布第一款版本，刚开始还没制定好软件UI界面，经过几个月选款制作出全新UI界面出来，目前现在的版本由于UI问题无法兼容到旧版本PE微型系统，这个原因具体问题还在处理，从XP到win11测试均无问题，winXP/8/10PE微型系统下使用也是正常，这个问题已经正在处理，在日后版本更新会处理好。
 
 版本：
 
 以下是历代版本地址：
-V1.0.45正式版（由于程序体积过大只留一个版本）https://www.yuque.com/samplesk/naxnan/zzc0ri
-https://pan.baidu.com/s/1Y8YPzErKEK_RcQh343z1QQ  提取码: j3e5 
+V1.0.46正式版（由于程序体积过大只留一个版本）https://www.yuque.com/samplesk/naxnan/zzc0ri
+链接: https://pan.baidu.com/s/1mSSUT9CPBkTxVRvmt_CdSA 提取码: 4cb9 
 新增阿里网盘备用地址：https://www.aliyundrive.com/s/hy9m332FUkH 提取码: 0q2e
+
 
 
 软件如图
@@ -352,17 +353,5 @@ v1.0 https://pan.baidu.com/s/1eQjk7mE
 
 ![image](https://user-images.githubusercontent.com/28796269/166918520-2220d7cb-03d9-45bc-8e00-8b319d122373.png)
 ![image](https://user-images.githubusercontent.com/28796269/166918540-7d8e37a3-d09c-4727-b802-28eaee8f572c.png)
-
-
-
-
-
-
-
-
-
-
-
-
 
 
